@@ -12,12 +12,12 @@ public class Batch7Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Batch7Application.class, args);
-        logger.info("info logging level");
-        logger.error("eror logging level");
-        logger.warn("warning logging level");
-        logger.debug("debug logging level");
-        logger.trace("trace logging level");
-        logger.error("Error processing request");
+//        logger.info("info logging level");
+//        logger.error("eror logging level");
+//        logger.warn("warning logging level");
+//        logger.debug("debug logging level");
+//        logger.trace("trace logging level");
+//        logger.error("Error processing request");
     }
 
 }
